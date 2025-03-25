@@ -1,0 +1,13 @@
+# Ignore Power BI temporary files
+*.pbix-journal
+
+# Ignore system-generated files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore backup or temporary CSV files
+*.csv~
+
+# Ignore logs and cache files
+*.log
+*.cache
